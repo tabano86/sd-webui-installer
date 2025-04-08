@@ -1,5 +1,3 @@
- sd-webui-installer Wiki body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; line-height: 1.6; padding: 20px; } h1, h2, h3 { color: #2C3E50; } pre { background-color: #F4F4F4; padding: 10px; border: 1px solid #ddd; overflow-x: auto; } code { font-family: Consolas, "Courier New", monospace; } a { color: #3498DB; }
-
 sd-webui-installer Wiki
 =======================
 
